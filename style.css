@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(../fonts/JosefinSans);
+}
+
+body {
+        background-image: url(../images/background.png);
+        background-position: top center; 
+}
